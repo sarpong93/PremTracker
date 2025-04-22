@@ -3,7 +3,7 @@
         "Possession": 57.7,
         "Pass Accuracy": 84.1,
         "Possession Style": "Possession based",
-        "Attacking Style": "Slow build-up",
+        "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 48.38,
         "Defensive Style": "Press High"
     },
@@ -14,6 +14,14 @@
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 51.3,
         "Defensive Style": "Press High"
+    },
+    "Nott'ham Forest": {
+        "Possession": 39.8,
+        "Pass Accuracy": 74.8,
+        "Possession Style": "Direct",
+        "Attacking Style": "Mix of play styles",
+        "Defensive Line Height": 40.02,
+        "Defensive Style": "Mid Block"
     },
     "Newcastle Utd": {
         "Possession": 50.3,
@@ -38,14 +46,6 @@
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 47.51,
         "Defensive Style": "Press High"
-    },
-    "Nott'ham Forest": {
-        "Possession": 40.1,
-        "Pass Accuracy": 75.0,
-        "Possession Style": "Direct",
-        "Attacking Style": "Mix of play styles",
-        "Defensive Line Height": 40.02,
-        "Defensive Style": "Mid Block"
     },
     "Aston Villa": {
         "Possession": 51.4,
@@ -99,7 +99,7 @@
         "Possession": 40.3,
         "Pass Accuracy": 75.4,
         "Possession Style": "Direct",
-        "Attacking Style": "Direct Play",
+        "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 44.18,
         "Defensive Style": "Mid Block"
     },
@@ -120,10 +120,10 @@
         "Defensive Style": "Mid Block"
     },
     "Tottenham": {
-        "Possession": 56.6,
+        "Possession": 56.9,
         "Pass Accuracy": 83.5,
         "Possession Style": "Possession based",
-        "Attacking Style": "Mix of play styles",
+        "Attacking Style": "Reliant on wing play",
         "Defensive Line Height": 46.33,
         "Defensive Style": "Press High"
     },
