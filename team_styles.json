@@ -15,6 +15,14 @@
         "Defensive Line Height": 51.3,
         "Defensive Style": "Press High"
     },
+    "Manchester City": {
+        "Possession": 61.4,
+        "Pass Accuracy": 88.2,
+        "Possession Style": "Possession based",
+        "Attacking Style": "Slow build-up",
+        "Defensive Line Height": 51.03,
+        "Defensive Style": "Press High"
+    },
     "Nott'ham Forest": {
         "Possession": 39.8,
         "Pass Accuracy": 74.8,
@@ -31,14 +39,6 @@
         "Defensive Line Height": 47.32,
         "Defensive Style": "Press High"
     },
-    "Manchester City": {
-        "Possession": 61.4,
-        "Pass Accuracy": 88.3,
-        "Possession Style": "Possession based",
-        "Attacking Style": "Slow build-up",
-        "Defensive Line Height": 51.03,
-        "Defensive Style": "Press High"
-    },
     "Chelsea": {
         "Possession": 58.4,
         "Pass Accuracy": 84.9,
@@ -48,8 +48,8 @@
         "Defensive Style": "Press High"
     },
     "Aston Villa": {
-        "Possession": 51.4,
-        "Pass Accuracy": 83.0,
+        "Possession": 51.0,
+        "Pass Accuracy": 82.9,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 45.35,
