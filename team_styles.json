@@ -1,134 +1,134 @@
 {
     "Liverpool": {
-        "Possession": 57.7,
-        "Pass Accuracy": 84.1,
+        "Possession": 58.0,
+        "Pass Accuracy": 84.2,
         "Possession Style": "Possession based",
-        "Attacking Style": "Mix of play styles",
+        "Attacking Style": "Slow build-up",
         "Defensive Line Height": 48.38,
         "Defensive Style": "Press High"
     },
     "Arsenal": {
-        "Possession": 57.1,
+        "Possession": 57.0,
         "Pass Accuracy": 84.3,
         "Possession Style": "Possession based",
-        "Attacking Style": "Reliant on wing play",
+        "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 51.3,
         "Defensive Style": "Press High"
     },
     "Manchester City": {
         "Possession": 61.4,
-        "Pass Accuracy": 88.2,
+        "Pass Accuracy": 88.3,
         "Possession Style": "Possession based",
         "Attacking Style": "Slow build-up",
         "Defensive Line Height": 51.03,
         "Defensive Style": "Press High"
     },
-    "Nott'ham Forest": {
-        "Possession": 39.8,
-        "Pass Accuracy": 74.8,
-        "Possession Style": "Direct",
-        "Attacking Style": "Mix of play styles",
-        "Defensive Line Height": 40.02,
-        "Defensive Style": "Mid Block"
-    },
     "Newcastle Utd": {
-        "Possession": 50.3,
-        "Pass Accuracy": 81.2,
+        "Possession": 51.2,
+        "Pass Accuracy": 81.5,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 47.32,
         "Defensive Style": "Press High"
     },
     "Chelsea": {
-        "Possession": 58.4,
+        "Possession": 57.7,
         "Pass Accuracy": 84.9,
         "Possession Style": "Possession based",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 47.51,
         "Defensive Style": "Press High"
     },
+    "Nott'ham Forest": {
+        "Possession": 40.5,
+        "Pass Accuracy": 75.0,
+        "Possession Style": "Direct",
+        "Attacking Style": "Mix of play styles",
+        "Defensive Line Height": 40.02,
+        "Defensive Style": "Mid Block"
+    },
     "Aston Villa": {
         "Possession": 51.0,
-        "Pass Accuracy": 82.9,
+        "Pass Accuracy": 83.0,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 45.35,
         "Defensive Style": "Mid Block"
     },
     "Bournemouth": {
-        "Possession": 48.0,
-        "Pass Accuracy": 76.2,
+        "Possession": 47.7,
+        "Pass Accuracy": 76.3,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Reliant on wing play",
         "Defensive Line Height": 47.33,
         "Defensive Style": "Press High"
     },
-    "Fulham": {
-        "Possession": 51.9,
-        "Pass Accuracy": 81.8,
-        "Possession Style": "A mix of possession and direct play",
-        "Attacking Style": "Reliant on wing play",
-        "Defensive Line Height": 44.6,
-        "Defensive Style": "Mid Block"
-    },
-    "Brighton": {
-        "Possession": 52.5,
-        "Pass Accuracy": 82.4,
-        "Possession Style": "A mix of possession and direct play",
-        "Attacking Style": "Mix of play styles",
-        "Defensive Line Height": 48.13,
-        "Defensive Style": "Press High"
-    },
     "Brentford": {
-        "Possession": 47.7,
-        "Pass Accuracy": 78.1,
+        "Possession": 47.6,
+        "Pass Accuracy": 78.0,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 45.08,
         "Defensive Style": "Mid Block"
     },
+    "Brighton": {
+        "Possession": 52.3,
+        "Pass Accuracy": 82.3,
+        "Possession Style": "A mix of possession and direct play",
+        "Attacking Style": "Mix of play styles",
+        "Defensive Line Height": 48.13,
+        "Defensive Style": "Press High"
+    },
+    "Fulham": {
+        "Possession": 52.2,
+        "Pass Accuracy": 81.9,
+        "Possession Style": "A mix of possession and direct play",
+        "Attacking Style": "Reliant on wing play",
+        "Defensive Line Height": 44.6,
+        "Defensive Style": "Mid Block"
+    },
     "Crystal Palace": {
-        "Possession": 43.0,
-        "Pass Accuracy": 75.6,
+        "Possession": 43.2,
+        "Pass Accuracy": 75.4,
         "Possession Style": "Direct",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 43.45,
         "Defensive Style": "Mid Block"
     },
+    "Wolves": {
+        "Possession": 47.3,
+        "Pass Accuracy": 80.6,
+        "Possession Style": "A mix of possession and direct play",
+        "Attacking Style": "Mix of play styles",
+        "Defensive Line Height": 42.93,
+        "Defensive Style": "Mid Block"
+    },
     "Everton": {
-        "Possession": 40.3,
-        "Pass Accuracy": 75.4,
+        "Possession": 40.9,
+        "Pass Accuracy": 76.0,
         "Possession Style": "Direct",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 44.18,
         "Defensive Style": "Mid Block"
     },
     "Manchester Utd": {
-        "Possession": 53.0,
-        "Pass Accuracy": 82.4,
+        "Possession": 53.2,
+        "Pass Accuracy": 82.3,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 43.53,
         "Defensive Style": "Mid Block"
     },
-    "Wolves": {
-        "Possession": 47.3,
-        "Pass Accuracy": 80.3,
-        "Possession Style": "A mix of possession and direct play",
-        "Attacking Style": "Mix of play styles",
-        "Defensive Line Height": 42.93,
-        "Defensive Style": "Mid Block"
-    },
     "Tottenham": {
-        "Possession": 56.9,
-        "Pass Accuracy": 83.5,
+        "Possession": 56.1,
+        "Pass Accuracy": 83.0,
         "Possession Style": "Possession based",
-        "Attacking Style": "Reliant on wing play",
+        "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 46.33,
         "Defensive Style": "Press High"
     },
     "West Ham": {
-        "Possession": 47.7,
+        "Possession": 47.9,
         "Pass Accuracy": 80.3,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Mix of play styles",
@@ -136,8 +136,8 @@
         "Defensive Style": "Mid Block"
     },
     "Ipswich Town": {
-        "Possession": 40.5,
-        "Pass Accuracy": 77.7,
+        "Possession": 40.0,
+        "Pass Accuracy": 77.6,
         "Possession Style": "Direct",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 44.01,
@@ -145,15 +145,15 @@
     },
     "Leicester City": {
         "Possession": 45.5,
-        "Pass Accuracy": 79.5,
+        "Pass Accuracy": 79.9,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 42.5,
         "Defensive Style": "Mid Block"
     },
     "Southampton": {
-        "Possession": 49.8,
-        "Pass Accuracy": 84.0,
+        "Possession": 49.4,
+        "Pass Accuracy": 83.9,
         "Possession Style": "A mix of possession and direct play",
         "Attacking Style": "Mix of play styles",
         "Defensive Line Height": 43.29,
